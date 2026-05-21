@@ -30,7 +30,7 @@ I'm based in Indonesia, specializing in building secure, efficient, and clean ba
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aresssRYZ&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Faris's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aresssRYZ&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=58A6FF" alt="RedFox GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
