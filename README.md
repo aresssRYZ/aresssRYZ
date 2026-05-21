@@ -2,7 +2,7 @@
 
 **Software Engineering Student | Backend Developer | Cybersecurity Enthusiast**
 
-I'm based in Medan, Indonesia, specializing in building secure, efficient, and clean backend architectures. As an INTJ-A Architect, I enjoy tackling complex logic, independent problem solving, and enforcing modern, minimalist coding standards. 
+I'm based in Indonesia, specializing in building secure, efficient, and clean backend architectures. As an INTJ-A Architect, I enjoy tackling complex logic, independent problem solving, and enforcing modern, minimalist coding standards. 
 
 ### ⚡ About Me
 - 🔭 Currently building robust platforms with an emphasis on clean UI/UX and solid backend architecture.
@@ -30,8 +30,8 @@ I'm based in Medan, Indonesia, specializing in building secure, efficient, and c
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aresssRYZ&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
 </p>
 
 ### 📫 Let's Connect
-- **Email:** [Masukkan Email Anda Di Sini]
+- **Email:** 
