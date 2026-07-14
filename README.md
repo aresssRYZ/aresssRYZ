@@ -59,6 +59,6 @@ I specialize in building **secure, efficient, and clean backend architectures**.
 
 ### 📫 Let's Connect
 
-- 📧 **Email:** ⬅️ isi sendiri
+- 📧 **Email:** farisfattah0106@gmail.com
 - 🎮 **Discord:** f0xxyct
 </a>
