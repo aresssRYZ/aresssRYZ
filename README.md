@@ -49,10 +49,10 @@ I specialize in building **secure, efficient, and clean backend architectures**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aresssRYZ&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
-### 🎵 Now Playing on Spotify — Aycii夜
+### 🎵 Now Playing on Spotify — Foxxy夜
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotifygithubprofile.kittinanx.com/api/viewuid=3165ynnx6p6xktvajft4df3juosy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3165ynnx6p6xktvajft4df3juosy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Foxxy夜 - Spotify Now Playing" />
   </a>
 </p>
 
