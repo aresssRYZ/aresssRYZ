@@ -43,8 +43,8 @@ I specialize in building **secure, efficient, and clean backend architectures**.
   <img src="https://streak-stats.demolab.com/?user=aresssRYZ&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=58A6FF" alt="RedFox GitHub Streak Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aresssRYZ&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="RedFox GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aresssRYZ&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=aresssRYZ&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="RedFox GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=aresssRYZ&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ### 🎵 Now Playing on Spotify — Foxxy夜
