@@ -39,7 +39,6 @@ I specialize in building **secure, efficient, and clean backend architectures**.
 </p>
 
 ### 📈 GitHub Stats
-### 📈 GitHub Stats
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=aresssRYZ&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=58A6FF" alt="RedFox GitHub Streak Stats" />
 </p>
