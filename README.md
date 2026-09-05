@@ -50,7 +50,7 @@ I specialize in building **secure, efficient, and clean backend architectures**.
 </p>
 
 ### 🎵 Now Playing on Spotify — Foxxy夜
-<p align="center">
+<p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3165ynnx6p6xktvajft4df3juosy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Foxxy夜 - Spotify Now Playing" />
   </a>
